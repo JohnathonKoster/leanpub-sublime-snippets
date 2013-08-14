@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+Q>## Question Title
+Q>
+Q> 
+]]></content>
+	<tabTrigger>q></tabTrigger>
+	<description>LeanPub Question block</description>
+</snippet>

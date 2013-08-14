@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+T>## Tip Title
+T>
+T> 
+]]></content>
+	<tabTrigger>t></tabTrigger>
+	<description>LeanPub Tip block</description>
+</snippet>

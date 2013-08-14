@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+W>## Warning Title
+W>
+W> 
+]]></content>
+	<tabTrigger>w></tabTrigger>
+	<description>LeanPub Warning block</description>
+</snippet>

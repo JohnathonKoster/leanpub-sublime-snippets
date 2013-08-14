@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+A>## Aside Title
+A>
+A> 
+]]></content>
+	<tabTrigger>a></tabTrigger>
+	<description>LeanPub Aside block</description>
+</snippet>

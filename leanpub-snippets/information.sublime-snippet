@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+I>## Information Title
+I>
+I> 
+]]></content>
+	<tabTrigger>i></tabTrigger>
+	<description>LeanPub Information block</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+E>## Exercise Title
+E>
+E> 
+]]></content>
+	<tabTrigger>e></tabTrigger>
+	<description>LeanPub Exercise block</description>
+</snippet>

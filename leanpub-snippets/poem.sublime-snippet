@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{style=poem}
+~~~~~~
+
+~~~~~~
+]]></content>
+	<tabTrigger>poem></tabTrigger>
+	<description>LeanPub Poem</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+D>## Discussion Title
+D>
+D> 
+]]></content>
+	<tabTrigger>d></tabTrigger>
+	<description>LeanPub Discussion block</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{lang="text",line-numbers=on}
+~~~~~~~~
+
+~~~~~~~~
+]]></content>
+	<tabTrigger>lp:t</tabTrigger>
+	<description>LeanPub text code block</description>
+</snippet>
