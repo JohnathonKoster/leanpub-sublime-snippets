@@ -24,7 +24,7 @@ The following snippets are available right of the box. Simply type the `trigger`
 | <kbd>lpq</kbd> | Question Box |
 | <kbd>lpt</kbd> | Tip Box |
 | <kbd>lpw</kbd> | Warning Box |
-| <kdb>lpoem</kdb> | Poem Block |
+| <kbd>lpoem</kbd> | Poem Block |
 | <kbd>lpm</kbd> | Motto/Epigraph |
 | <kbd>lpc</kbd> | Code Block |
 | <kbd>lpp</kbd> | PHP Code Block |
