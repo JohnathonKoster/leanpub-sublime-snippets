@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<<(code/${1})
+]]></content>
+	<tabTrigger>lpec</tabTrigger>
+	<description>LeanPub Code Sample (External)</description>
+</snippet>

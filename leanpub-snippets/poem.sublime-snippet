@@ -2,7 +2,7 @@
 	<content><![CDATA[
 {style=poem}
 ~~~~~~
-
+${1:$TM_SELECTED_TEXT}
 ~~~~~~
 ]]></content>
 	<tabTrigger>poem></tabTrigger>

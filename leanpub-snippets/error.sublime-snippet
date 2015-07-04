@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+E> ${1:##} $2
+E>
+E> ${3:$TM_SELECTED_TEXT}
+]]></content>
+	<tabTrigger>lpe</tabTrigger>
+	<description>LeanPub Error Box</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{icon=${1:automobile}}
+G> ${2:##} $3
+G>
+G> ${4:$TM_SELECTED_TEXT}
+]]></content>
+	<tabTrigger>lpg</tabTrigger>
+	<description>LeanPub Generic Box</description>
+</snippet>

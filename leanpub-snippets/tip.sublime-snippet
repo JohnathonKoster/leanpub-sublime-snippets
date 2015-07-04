@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-T>## Tip Title
+T> ${1:##} $2
 T>
-T> 
+T> ${3:$TM_SELECTED_TEXT}
 ]]></content>
-	<tabTrigger>t></tabTrigger>
-	<description>LeanPub Tip block</description>
+	<tabTrigger>lpt</tabTrigger>
+	<description>LeanPub Tip Box</description>
 </snippet>

@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-W>## Error Title
-W>
-W> 
-]]></content>
-	<tabTrigger>e></tabTrigger>
-	<description>LeanPub Error block</description>
-</snippet>

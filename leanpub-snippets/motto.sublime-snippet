@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+C> $1
+]]></content>
+	<tabTrigger>lpm</tabTrigger>
+	<description>LeanPub Motto/Epigraph</description>
+</snippet>

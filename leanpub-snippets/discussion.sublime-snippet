@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-D>## Discussion Title
+D> ${1:##} $2
 D>
-D> 
+D> ${3:$TM_SELECTED_TEXT}
 ]]></content>
-	<tabTrigger>d></tabTrigger>
-	<description>LeanPub Discussion block</description>
+	<tabTrigger>lpd</tabTrigger>
+	<description>LeanPub Discussion Box</description>
 </snippet>

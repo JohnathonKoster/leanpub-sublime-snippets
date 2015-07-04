@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-E>## Exercise Title
-E>
-E> 
+X> ${1:##} $2
+X>
+X> ${3:$TM_SELECTED_TEXT}
 ]]></content>
-	<tabTrigger>e></tabTrigger>
-	<description>LeanPub Exercise block</description>
+	<tabTrigger>lpx</tabTrigger>
+	<description>LeanPub Exercise Box</description>
 </snippet>

@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-I>## Information Title
+I> ${1:##} $2
 I>
-I> 
+I> ${3:$TM_SELECTED_TEXT}
 ]]></content>
-	<tabTrigger>i></tabTrigger>
-	<description>LeanPub Information block</description>
+	<tabTrigger>lpi</tabTrigger>
+	<description>LeanPub Information Box</description>
 </snippet>

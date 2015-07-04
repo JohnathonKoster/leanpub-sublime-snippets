@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-Q>## Question Title
+Q> ${1:##} $2
 Q>
-Q> 
+Q> ${3:$TM_SELECTED_TEXT}
 ]]></content>
-	<tabTrigger>q></tabTrigger>
-	<description>LeanPub Question block</description>
+	<tabTrigger>lpq</tabTrigger>
+	<description>LeanPub Question Box</description>
 </snippet>

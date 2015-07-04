@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{lang="${1:php}",line-numbers=${2:off}}
+~~~~~~~~
+${3:$TM_SELECTED_TEXT}
+~~~~~~~~
+]]></content>
+	<tabTrigger>lpc</tabTrigger>
+	<description>LeanPub Code block template</description>
+</snippet>

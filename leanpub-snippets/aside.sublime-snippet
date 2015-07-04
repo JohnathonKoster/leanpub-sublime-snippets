@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-A>## Aside Title
+A> ${1:##} $2
 A>
-A> 
+A> ${3:$TM_SELECTED_TEXT}
 ]]></content>
-	<tabTrigger>a></tabTrigger>
-	<description>LeanPub Aside block</description>
+	<tabTrigger>lpa</tabTrigger>
+	<description>LeanPub Aside/Sidebars Box</description>
 </snippet>
