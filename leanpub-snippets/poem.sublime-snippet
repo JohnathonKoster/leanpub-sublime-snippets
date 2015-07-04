@@ -5,6 +5,6 @@
 ${1:$TM_SELECTED_TEXT}
 ~~~~~~
 ]]></content>
-	<tabTrigger>poem></tabTrigger>
+	<tabTrigger>lpoem</tabTrigger>
 	<description>LeanPub Poem</description>
 </snippet>
