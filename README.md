@@ -5,7 +5,7 @@ A collection of Sublime Text snippets for writing [LeanPub](https://leanpub.com/
 
 ## Manual Installation
 
-Copy the contents of this repository into Sublime Text `Packages` folder.
+Copy the contents of this repository into the Sublime Text `Packages` directory.
 
 ## Included Snippets
 
